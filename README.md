@@ -50,7 +50,7 @@ I'm open to collaborate on interesting and innovative projects!
 ![GitLab](https://img.shields.io/badge/gitlab_CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%23161616.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Dagger](https://img.shields.io/badge/dagger-%23fcc008.svg?style=for-the-badge)
+![Dagger](https://img.shields.io/badge/dagger-%23181717.svg?style=for-the-badge)
 
 ![n8n](https://img.shields.io/badge/n8n-%23eb4b71.svg?style=for-the-badge)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
