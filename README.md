@@ -16,6 +16,7 @@ I'm open to collaborate on interesting and innovative projects!
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/RL-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -32,7 +33,6 @@ I'm open to collaborate on interesting and innovative projects!
 ![Harvester](https://img.shields.io/badge/harvester-%2300a384.svg?style=for-the-badge)
 ![KubeVirt](https://img.shields.io/badge/kubevirt-%2300aab2.svg?style=for-the-badge)
 ![Longhorn](https://img.shields.io/badge/longhorn-%235f224b.svg?style=for-the-badge)
-![Rocky Linux](https://img.shields.io/badge/RL-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white)
 
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-%23323330.svg?style=for-the-badge&logo=argo&logoColor=white)
 ![FluxCD](https://img.shields.io/badge/FluxCD-%23316ce4.svg?style=for-the-badge)
