@@ -28,7 +28,6 @@ I'm open to collaborate on interesting and innovative projects!
 ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
 ![KubeSphere](https://img.shields.io/badge/KubeSphere-%2351b484.svg?style=for-the-badge)
 ![Karmada](https://img.shields.io/badge/karmada-%232665fe.svg?style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-%23323330.svg?style=for-the-badge&logo=argo&logoColor=white)
 ![FluxCD](https://img.shields.io/badge/FluxCD-%23316ce4.svg?style=for-the-badge)
 
@@ -46,6 +45,12 @@ I'm open to collaborate on interesting and innovative projects!
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![Tailwind](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/github_actions-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab_CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%23161616.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Dagger](https://img.shields.io/badge/dagger-%23fcc008.svg?style=for-the-badge)
 
 ![n8n](https://img.shields.io/badge/n8n-%23eb4b71.svg?style=for-the-badge)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
