@@ -23,7 +23,7 @@ I'm open to collaborate on interesting and innovative projects!
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Pulumi](https://img.shields.io/badge/pulumi-%231A1918.svg?style=for-the-badge&logo=pulumi&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%23cc0607.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 
 ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
 ![KubeSphere](https://img.shields.io/badge/KubeSphere-%2351b484.svg?style=for-the-badge)
@@ -52,6 +52,7 @@ I'm open to collaborate on interesting and innovative projects!
 ![Jenkins](https://img.shields.io/badge/jenkins-%23161616.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Dagger](https://img.shields.io/badge/dagger-%23181717.svg?style=for-the-badge)
 
+![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23eb4b71.svg?style=for-the-badge)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
