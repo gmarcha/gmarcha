@@ -43,7 +43,7 @@ I'm open to collaborate on interesting and innovative projects!
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
-![K3s](https://img.shields.io/badge/k3s-%23ffc71c.svg?style=for-the-badge&logo=k3s&logoColor=white)
+![K3s](https://img.shields.io/badge/k3s-%23323330.svg?style=for-the-badge&logo=k3s&logoColor=%23ffc71c)
 ![Karmada](https://img.shields.io/badge/karmada-%232665fe.svg?style=for-the-badge)
 ![Harvester](https://img.shields.io/badge/harvester-%2300a384.svg?style=for-the-badge)
 ![KubeVirt](https://img.shields.io/badge/kubevirt-%2300aab2.svg?style=for-the-badge)
