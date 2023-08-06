@@ -2,8 +2,7 @@
 
 Hi! I'm a French native highly interested in distributed/edge computing, zero-trust network and general automation.
 
-I'm working on Kubernetes environment, system design, infrastructure provisioning, configuration management, software development...
-
+I'm working on Kubernetes environment, system design, infrastructure provisioning, configuration management, software development...\
 I'm open to collaborate on interesting and innovative projects!
 
 ## Technologies
