@@ -26,22 +26,6 @@ I'm open to collaborate on interesting and innovative projects!
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-%23323330.svg?style=for-the-badge&logo=argo&logoColor=white)
 ![FluxCD](https://img.shields.io/badge/FluxCD-%23316ce4.svg?style=for-the-badge)
 
-![Ory.sh](https://img.shields.io/badge/Ory-%235528ff.svg?style=for-the-badge)
-![Apollo-GraphQL](https://img.shields.io/badge/-Apollo-311C87?style=for-the-badge&logo=apollo-graphql)
-![Hasura](https://img.shields.io/badge/Hasura-%231eb5d4.svg?style=for-the-badge&logo=graphql&logoColor=white)
-![GraphQL Mesh](https://img.shields.io/badge/GraphQL--Mesh-%231A1918.svg?style=for-the-badge&logo=graphql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-%231A1918.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue](https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
-![Tailwind](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
 ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
 ![K3s](https://img.shields.io/badge/k3s-%23323330.svg?style=for-the-badge&logo=k3s&logoColor=%23ffc71c)
 ![Karmada](https://img.shields.io/badge/karmada-%232665fe.svg?style=for-the-badge)
@@ -58,6 +42,23 @@ I'm open to collaborate on interesting and innovative projects!
 ![Scaleway](https://img.shields.io/badge/scaleway-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white)
 ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+
+
+![Ory.sh](https://img.shields.io/badge/Ory-%235528ff.svg?style=for-the-badge)
+![Apollo-GraphQL](https://img.shields.io/badge/-Apollo-311C87?style=for-the-badge&logo=apollo-graphql)
+![Hasura](https://img.shields.io/badge/Hasura-%231eb5d4.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![GraphQL Mesh](https://img.shields.io/badge/GraphQL--Mesh-%231A1918.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-%231A1918.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue](https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Tailwind](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23eb4b71.svg?style=for-the-badge)
