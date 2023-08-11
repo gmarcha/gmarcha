@@ -1,8 +1,8 @@
-# Architect / DevOps / Cloud Engineer
+# Software/Cloud Engineering
 
 Hi! I'm a French native highly interested in distributed/edge computing, zero-trust network and general automation.
 
-I'm working on Kubernetes environment, system design, infrastructure provisioning, configuration management, software development...\
+I'm working on Kubernetes environment, system and software design, infrastructure provisioning, configuration management...\
 I'm open to collaborate on interesting and innovative projects!
 
 ## Technologies
