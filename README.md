@@ -20,7 +20,6 @@ I'm open to collaborate on interesting and innovative projects!
 ![GitHub](https://img.shields.io/badge/github_actions-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab_CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%23161616.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Dagger](https://img.shields.io/badge/dagger-%23181717.svg?style=for-the-badge)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-%23323330.svg?style=for-the-badge&logo=argo&logoColor=white)
 ![FluxCD](https://img.shields.io/badge/FluxCD-%23316ce4.svg?style=for-the-badge)
@@ -42,7 +41,6 @@ I'm open to collaborate on interesting and innovative projects!
 ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 
-
 ![Ory.sh](https://img.shields.io/badge/Ory-%235528ff.svg?style=for-the-badge)
 ![Apollo-GraphQL](https://img.shields.io/badge/-Apollo-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Hasura](https://img.shields.io/badge/Hasura-%231eb5d4.svg?style=for-the-badge&logo=graphql&logoColor=white)
@@ -51,13 +49,13 @@ I'm open to collaborate on interesting and innovative projects!
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-%231A1918.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue](https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Mantine](https://img.shields.io/badge/mantine-%23349aef.svg?style=for-the-badge)
+![Emotion](https://img.shields.io/badge/emotion-%23d26ac1.svg?style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23eb4b71.svg?style=for-the-badge)
