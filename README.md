@@ -39,6 +39,7 @@ I did a lot in CRUD generation from database schemas in OpenAPI ecosystem and th
 [![Longhorn](https://img.shields.io/badge/longhorn-%235f224b.svg?style=for-the-badge&logo=rancher&logoColor=white)](https://longhorn.io/docs/1.5.1/)
 [![KubeVirt](https://img.shields.io/badge/kubevirt-%2300aab2.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubevirt.io/user-guide/)
 [![KubeSphere](https://img.shields.io/badge/KubeSphere-%2351b484.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.kubesphere.io/docs/v3.3/)
+[![Vault](https://img.shields.io/badge/vault-%23323330.svg?style=for-the-badge&logo=vault&logoColor=%23fed813)](https://developer.hashicorp.com/vault/docs)
 
 [![GitHub](https://img.shields.io/badge/github_actions-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/fr/actions)
 [![GitLab](https://img.shields.io/badge/gitlab_CI-%23fc6e26.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
@@ -47,7 +48,6 @@ I did a lot in CRUD generation from database schemas in OpenAPI ecosystem and th
 [![Jenkins](https://img.shields.io/badge/jenkins-%23335060.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/doc/book/)
 [![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)](https://nodered.org/docs/)
 [![n8n](https://img.shields.io/badge/n8n-%23eb4b71.svg?style=for-the-badge)](https://docs.n8n.io/#)
-[![Vault](https://img.shields.io/badge/vault-%23323330.svg?style=for-the-badge&logo=vault&logoColor=%23fed813)](https://developer.hashicorp.com/vault/docs)
 
 [![Ory.sh](https://img.shields.io/badge/Ory-%235528ff.svg?style=for-the-badge&logo=sourcehut&logoColor=white)](https://www.ory.sh/docs/ecosystem/projects)
 [![Apollo-GraphQL](https://img.shields.io/badge/-Apollo-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)](https://www.apollographql.com/docs/)
