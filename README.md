@@ -19,9 +19,8 @@ I'm open to collaborate on interesting and innovative projects!
 [![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/docs?hl=fr)
 [![Scaleway](https://img.shields.io/badge/scaleway-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white)](https://www.scaleway.com/en/docs/)
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform)
-[![Ansible](https://img.shields.io/badge/ansible-%23cc0607.svg?style=for-the-badge&logo=ansible&logoColor=white)](https://docs.ansible.com/)
 [![Pulumi](https://img.shields.io/badge/pulumi-%231A1918.svg?style=for-the-badge&logo=pulumi&logoColor=white)](https://www.pulumi.com/docs/)
-[![Vault](https://img.shields.io/badge/vault-%23323330.svg?style=for-the-badge&logo=vault&logoColor=%23fed813)](https://developer.hashicorp.com/vault/docs)
+[![Ansible](https://img.shields.io/badge/ansible-%23cc0607.svg?style=for-the-badge&logo=ansible&logoColor=white)](https://docs.ansible.com/)
 [![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)](https://developer.hashicorp.com/vagrant/docs)
 [![Packer](https://img.shields.io/badge/packer-%2301a8ef.svg?style=for-the-badge&logo=packer&logoColor=white)](https://developer.hashicorp.com/packer/docs)
 [![Rocky Linux](https://img.shields.io/badge/RL-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white)](https://docs.rockylinux.org/)
@@ -43,6 +42,7 @@ I'm open to collaborate on interesting and innovative projects!
 [![Jenkins](https://img.shields.io/badge/jenkins-%23335060.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/doc/book/)
 [![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)](https://nodered.org/docs/)
 [![n8n](https://img.shields.io/badge/n8n-%23eb4b71.svg?style=for-the-badge)](https://docs.n8n.io/#)
+[![Vault](https://img.shields.io/badge/vault-%23323330.svg?style=for-the-badge&logo=vault&logoColor=%23fed813)](https://developer.hashicorp.com/vault/docs)
 
 [![Ory.sh](https://img.shields.io/badge/Ory-%235528ff.svg?style=for-the-badge&logo=sourcehut&logoColor=white)](https://www.ory.sh/docs/ecosystem/projects)
 [![Apollo-GraphQL](https://img.shields.io/badge/-Apollo-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)](https://www.apollographql.com/docs/)
