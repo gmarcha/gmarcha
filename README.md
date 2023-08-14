@@ -57,7 +57,8 @@ Finally I like to design and create user interfaces or 3D experiences to drive m
 [![Harvester](https://img.shields.io/badge/harvester-%2300a384.svg?style=for-the-badge&logo=rancher&logoColor=white)](https://docs.harvesterhci.io/v1.1)
 [![Longhorn](https://img.shields.io/badge/longhorn-%235f224b.svg?style=for-the-badge&logo=rancher&logoColor=white)](https://longhorn.io/docs/1.5.1/)
 [![KubeVirt](https://img.shields.io/badge/kubevirt-%2300aab2.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubevirt.io/user-guide/)
-[![KubeSphere](https://img.shields.io/badge/KubeSphere-%2351b484.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.kubesphere.io/docs/v3.3/)
+[![KubeSphere](https://img.shields.io/badge/kubesphere-%2351b484.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.kubesphere.io/docs/v3.3/)
+[![OpenShift](https://img.shields.io/badge/openshift-%23db212e.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white)](https://docs.okd.io/latest/welcome/index.html)
 [![Vault](https://img.shields.io/badge/vault-%23323330.svg?style=for-the-badge&logo=vault&logoColor=%23fed813)](https://developer.hashicorp.com/vault/docs)
 
 [![GitHub](https://img.shields.io/badge/github_actions-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/fr/actions)
