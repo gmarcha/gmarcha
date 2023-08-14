@@ -4,6 +4,16 @@ Hi! I'm a French native interested in distributed/edge computing, zero-trust net
 
 I'm working on system and software design, infrastructure provisioning, configuration management, cloud and database migrations, GraphQL ecosystem, Kubernetes environment... I'm coding with Go and Typescript. I put my best efforts to ensure automation and reduce toil at each system level to provide flawless, maintainable and cost-efficient solutions.
 
+## Projects
+
+### [🌴 3D application with React and Blender](https://github.com/gmarcha/vite-app)
+
+A project to leverage 3D UX/UI into web applications.
+
+<p align="center">
+	<a href="https://github.com/gmarcha/vite-app"><img src="https://raw.githubusercontent.com/gmarcha/vite-app/master/.github/assets/screenshot-230813024108.png" width="500"></a>
+</p>
+
 ## Technologies
 
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
