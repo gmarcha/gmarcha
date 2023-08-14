@@ -1,9 +1,16 @@
 # Software/Cloud Engineering
 
-Hi! I'm a French native highly interested in distributed/edge computing, zero-trust network and general automation.
+Hi! I'm a French native interested in distributed/edge computing, zero-trust network and general automation.
 
-I'm working on system and software design, infrastructure provisioning, configuration management, cloud and database migrations, GraphQL ecosystem, Kubernetes environment...\
-I'm open to collaborate on interesting and innovative projects!
+I'm working on system and software design, infrastructure provisioning, configuration management, cloud and database migrations, GraphQL ecosystem, Kubernetes environment... I put my best efforts to ensure automation and reduce toil at each system level to provide flawless, maintainable and cost-efficient solutions.
+
+During last years, I highly focused on Google Cloud provisioning, K3s deployments and GitOps practices through [Flux](https://fluxcd.io/) and [Argo](https://argoproj.github.io/) with the aim to provide reliable, scalable and secure systems. That leads me to investigate in multi-cloud and hybrid scenarios for deploying Kubernetes. [K3s](https://k3s.io/) offers the ability to embrace this kind of scenarios, allowing to deploy control-plane clusters, regional clusters and edge clusters in any desired configuration. I gained good knowledge about network and load balancing issues in distributed systems, from a cloud-hosted or on-premise perspectives. [K0s](https://k0sproject.io/) from Google teams is a good alternative for ready-to-use clusters. For managing multi-cluster infrastructure, there are basically three ecosystems with different level of integration and flexibility: entreprise-grade OpenShift Container Platform (and OpenShift Platform Plus for multi-cluster control plane) which provides user-provisioned or installer-provisioned [installation](https://docs.okd.io/latest/installing/index.html), open-source Kubesphere Platform based on a full open source [stack](https://www.kubesphere.io/projects/) from observability to continuous integration, the Rancher suite for hybrid-orchestration and flexible scenarios (helped by Karmada cluster federation [capabilities](https://karmada.io/docs/tutorials/autoscaling-with-federatedhpa), Harvester integration for legacy virtual machine workloads or other external control plane tools).
+
+I also investigated authn/authz solutions and became an [Ory.sh](https://www.ory.sh/) user. Compared to keycloak monolithic approach and SSO based on OIDC, Ory is an open source cloud-hosted and headless solution based on a micro-service architecture, each service implementing a precise requirement in a lightweight manner. It is possible to deploy each service (Kratos, Hydra, Oathkeeper, Keto) independently and in a self-hosted fashion. This micro-service architecture grants so much flexibility to implement multi-tenancy requirements (single server with single database, multiple servers with single database, multiple servers with multiple databases) and to leverage a DevOps approach even for critical operations as authentication and authorization. I would really enjoy to collaborate on an open source RBAC implementation for Ory Keto, using operator pattern for example (see [example](https://docs.mojaloop.io/business-operations-framework-docs/guide/SecurityBC.html)).
+
+I did a lot in CRUD generation from database schemas in OpenAPI ecosystem and then in GraphQL ecosystem, extensively using tools such as [Postgraphile](https://www.graphile.org/postgraphile/), [Graphql-mesh]() or [Hasura](). Thus I'm mostly using Postgres because of its rich ecosystem, its fined grained authorization system with RLS feature and its easy migration usage for legacy SQL databases.
+
+Finally I like to design and create user interfaces or 3D experiences to drive my ideas forward, using edge technology to build intuitive and captivating applications.
 
 ## Technologies
 
