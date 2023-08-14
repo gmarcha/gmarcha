@@ -14,7 +14,7 @@ I'm working on system and software design, infrastructure provisioning, configur
 
 ## Projects
 
-### [🌴 3D application with React and Blender](https://github.com/gmarcha/vite-app)
+### [🌴 3D web application with React and Blender](https://github.com/gmarcha/vite-app)
 
 A project to leverage 3D UX/UI into web applications.
 
