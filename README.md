@@ -16,7 +16,7 @@ I'm working on system and software design, infrastructure provisioning, configur
 
 ### [☁️ Infrastructure as Code with Google Cloud, Terraform and Kubernetes](https://github.com/gmarcha/landing-deploy)
 
-A project to deploy Google Cloud resources with Terraform, Ansible and self-deployed Kubernetes following GitOps practices.
+Deploy Google Cloud resources with Terraform, Ansible and self-deployed Kubernetes following GitOps practices.
 
 <p align="center">
 	<a href="https://github.com/gmarcha/landing-deploy"><img src="https://raw.githubusercontent.com/gmarcha/landing-deploy/master/.github/assets/gcp-vm.png" width="500"></a>
@@ -24,7 +24,7 @@ A project to deploy Google Cloud resources with Terraform, Ansible and self-depl
 
 ### [🌴 3D web application with React and Blender](https://github.com/gmarcha/vite-app)
 
-A project to leverage 3D UX/UI into web applications with edge technologies.
+Leverage 3D UX/UI into web applications with node ecosystem and edge technologies.
 
 <p align="center">
 	<a href="https://github.com/gmarcha/vite-app"><img src="https://raw.githubusercontent.com/gmarcha/vite-app/master/.github/assets/screenshot-230813024108.png" width="500"></a>
