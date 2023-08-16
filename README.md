@@ -31,9 +31,9 @@ Deploy Google Cloud resources with Terraform, Ansible and self-deployed Kubernet
 	<a href="https://github.com/gmarcha/landing-deploy"><img src="https://raw.githubusercontent.com/gmarcha/landing-deploy/master/.github/assets/gcp-vm.png" width="500"></a>
 </p>
 
-### [🗃️ Kubernetes application management with Helm](https://github.com/gmarcha/hasura-chart)
+### [🗃️ Application management with Kubernetes and Helm](https://github.com/gmarcha/hasura-chart)
 
-Package an Hasura application into a Kubernetes helm chart and deploy helm repository as a static website.
+Package an Hasura application into a Kubernetes Helm chart and deploy Helm repository as a static website.
 
 <p align="center">
 	<a href="https://github.com/gmarcha/hasura-chart"><img src="https://raw.githubusercontent.com/gmarcha/hasura-chart/master/.github/assets/kubernetes-resources.png" width="500"></a>
