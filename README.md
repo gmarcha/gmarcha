@@ -20,7 +20,7 @@ I'm working on system and software design, infrastructure provisioning, configur
 Leverage 3D UX/UI into web applications with node ecosystem and edge technologies.
 
 <p align="center">
-	<a href="https://github.com/gmarcha/vite-app"><img src="https://raw.githubusercontent.com/gmarcha/vite-app/master/.github/assets/screenshot-230813024108.png" width="500"></a>
+	<a href="https://github.com/gmarcha/vite-app"><img src="https://raw.githubusercontent.com/gmarcha/vite-app/master/.github/assets/screenshot-230813024108.png" width="600"></a>
 </p>
 
 ### [☁️ Infrastructure as Code with Google Cloud, Terraform and Kubernetes](https://github.com/gmarcha/landing-deploy)
@@ -28,7 +28,7 @@ Leverage 3D UX/UI into web applications with node ecosystem and edge technologie
 Deploy Google Cloud resources with Terraform, Ansible and self-deployed Kubernetes following GitOps practices.
 
 <p align="center">
-	<a href="https://github.com/gmarcha/landing-deploy"><img src="https://raw.githubusercontent.com/gmarcha/landing-deploy/master/.github/assets/gcp-vm.png" width="500"></a>
+	<a href="https://github.com/gmarcha/landing-deploy"><img src="https://raw.githubusercontent.com/gmarcha/landing-deploy/master/.github/assets/gcp-vm.png" width="600"></a>
 </p>
 
 ### [🗃️ Application management with Kubernetes and Helm](https://github.com/gmarcha/hasura-chart)
@@ -36,7 +36,7 @@ Deploy Google Cloud resources with Terraform, Ansible and self-deployed Kubernet
 Package a Hasura application into a Kubernetes Helm chart and deploy Helm repository as a static website.
 
 <p align="center">
-	<a href="https://github.com/gmarcha/hasura-chart"><img src="https://raw.githubusercontent.com/gmarcha/hasura-chart/master/.github/assets/kubernetes-resources.png" width="500"></a>
+	<a href="https://github.com/gmarcha/hasura-chart"><img src="https://raw.githubusercontent.com/gmarcha/hasura-chart/master/.github/assets/kubernetes-resources.png" width="600"></a>
 </p>
 
 ## Experiences
