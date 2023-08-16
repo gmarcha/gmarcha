@@ -33,7 +33,7 @@ Deploy Google Cloud resources with Terraform, Ansible and self-deployed Kubernet
 
 ### [🗃️ Application management with Kubernetes and Helm](https://github.com/gmarcha/hasura-chart)
 
-Package an Hasura application into a Kubernetes Helm chart and deploy Helm repository as a static website.
+Package a Hasura application into a Kubernetes Helm chart and deploy Helm repository as a static website.
 
 <p align="center">
 	<a href="https://github.com/gmarcha/hasura-chart"><img src="https://raw.githubusercontent.com/gmarcha/hasura-chart/master/.github/assets/kubernetes-resources.png" width="500"></a>
