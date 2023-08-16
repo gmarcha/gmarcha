@@ -15,6 +15,14 @@ I'm working on system and software design, infrastructure provisioning, configur
 
 ## Projects
 
+### [🌴 3D web application with React and Blender](https://github.com/gmarcha/vite-app)
+
+Leverage 3D UX/UI into web applications with node ecosystem and edge technologies.
+
+<p align="center">
+	<a href="https://github.com/gmarcha/vite-app"><img src="https://raw.githubusercontent.com/gmarcha/vite-app/master/.github/assets/screenshot-230813024108.png" width="500"></a>
+</p>
+
 ### [☁️ Infrastructure as Code with Google Cloud, Terraform and Kubernetes](https://github.com/gmarcha/landing-deploy)
 
 Deploy Google Cloud resources with Terraform, Ansible and self-deployed Kubernetes following GitOps practices.
@@ -23,12 +31,12 @@ Deploy Google Cloud resources with Terraform, Ansible and self-deployed Kubernet
 	<a href="https://github.com/gmarcha/landing-deploy"><img src="https://raw.githubusercontent.com/gmarcha/landing-deploy/master/.github/assets/gcp-vm.png" width="500"></a>
 </p>
 
-### [🌴 3D web application with React and Blender](https://github.com/gmarcha/vite-app)
+### [🗃️ Kubernetes application management with Helm](https://github.com/gmarcha/)
 
-Leverage 3D UX/UI into web applications with node ecosystem and edge technologies.
+Package an Hasura application into a Kubernetes helm chart and deploy helm repository as a static website.
 
 <p align="center">
-	<a href="https://github.com/gmarcha/vite-app"><img src="https://raw.githubusercontent.com/gmarcha/vite-app/master/.github/assets/screenshot-230813024108.png" width="500"></a>
+	<a href="https://github.com/gmarcha/hasura-chart"><img src="https://raw.githubusercontent.com/gmarcha/hasura-chart/master/.github/assets/kubernetes-resources.png" width="500"></a>
 </p>
 
 ## Experiences
