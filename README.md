@@ -13,7 +13,7 @@ Hi! I'm a French native interested in distributed/edge computing, zero-trust net
 
 I'm working on system and software design, infrastructure provisioning, configuration management, cloud and database migrations, GraphQL ecosystem, Kubernetes environment... I'm coding with Go and Typescript. I put my best efforts to ensure automation and reduce toil at each system level to provide flawless, maintainable and cost-efficient solutions.
 
-## Projects
+## Skills
 
 ### [🌴 3D web application with React and Blender](https://github.com/gmarcha/vite-app)
 
