@@ -106,6 +106,6 @@ Finally I like to design and create user interfaces or 3D experiences to drive m
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/developers/docs/intro)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://developers.notion.com/)
-[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://confluence.atlassian.com/jira)
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://help.figma.com/hc/fr)
 [![Miro](https://img.shields.io/badge/miro-%23050038.svg?style=for-the-badge&logo=miro&logoColor=%23ffd02e)](https://miro.com/templates/documentation/)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://help.figma.com/hc/fr)
+[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://confluence.atlassian.com/jira)
