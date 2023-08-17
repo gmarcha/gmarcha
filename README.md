@@ -53,7 +53,7 @@ Finally I like to design and create user interfaces or 3D experiences to drive m
 
 - [Webserv](https://github.com/c3b5aw/webserv), a HTTP/1.1 C++ server implementation made in pair working with awesome [@c3b5aw](https://github.com/c3b5aw). Support for basic nginx configuration files, event-driven I/O handling, and multiple data response formats (urlencoded, multipart and transfer-encoding chunk mode).
 - [PipexMedic](https://github.com/gmarcha/pipexMedic), a C functional tester for a unix system programming project, Pipex. Intensive process creation, low-level inter-process communication, I/O redirection, signal handling. 
-- [SoLong](https://github.com/gmarcha/so-long), a 2D game written in C with a X11 library. Implementing an application loop, event handling, frame building and rendering.
+- [SoLong](https://github.com/gmarcha/so_long), a 2D game written in C with a X11 library. Implementing an application loop, event handling, frame building and rendering.
 
 ## Technologies
 
