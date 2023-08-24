@@ -11,7 +11,7 @@
 
 Hi! I'm a French native interested in distributed/edge computing, zero-trust network and general automation.
 
-I'm working on system and software design, infrastructure provisioning, configuration management, cloud and database migrations, GraphQL ecosystem, Kubernetes environment... I'm coding with Go and Typescript. I put my best efforts to ensure automation and reduce toil at each system level to provide flawless, maintainable and cost-efficient solutions.
+I'm working on system and software design, infrastructure provisioning, configuration management, cloud and database migrations, GraphQL ecosystem, Kubernetes environment... I'm coding with Go and Typescript. I like to automate things and reduce toil at each system level to provide flawless, maintainable and cost-efficient solutions.
 
 ## Skills
 
