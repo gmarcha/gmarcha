@@ -49,14 +49,6 @@ I did a lot in CRUD generation from database schemas in OpenAPI ecosystem and th
 
 Finally I like to design and create user interfaces or 3D experiences to drive my ideas forward, using edge technology to build intuitive and captivating applications.
 
-## Other projects
-
-- [Inception-of-Things](https://github.com/c3b5aw/inception-of-things), a project to run K3s nodes on Vagrant machines, to run K3d cluster on Docker and to install Gitlab CE on a Kubernetes cluster, made with [@c3b5aw](https://github.com/c3b5aw) and [@naofel1](https://www.github.com/naofel1).
-- [Webserv](https://github.com/c3b5aw/webserv), a HTTP/1.1 server implementation written in C++98 made in pair working with [@c3b5aw](https://github.com/c3b5aw). Support for basic nginx configuration files, event-driven I/O handling, and multiple data response formats (urlencoded, multipart and transfer-encoding chunk mode).
-- [PipexMedic](https://github.com/gmarcha/pipexMedic), a C functional tester for a unix system programming project, Pipex. Intensive process creation, low-level inter-process communication, I/O redirection, signal handling. 
-- [SoLong](https://github.com/gmarcha/so_long), a 2D game written in C with a X11 library. Implementing an application loop, event handling, frame building and rendering.
-- [Go API](https://github.com/gmarcha/ent-goswagger-app) with Open-API based generator (goswagger) and schema-as-code based ORM (entgo).
-
 ## Technologies
 
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
@@ -117,3 +109,11 @@ Finally I like to design and create user interfaces or 3D experiences to drive m
 [![Miro](https://img.shields.io/badge/miro-%23050038.svg?style=for-the-badge&logo=miro&logoColor=%23ffd02e)](https://miro.com/templates/documentation/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://help.figma.com/hc/fr)
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://confluence.atlassian.com/jira)
+
+## Other projects
+
+- [Inception-of-Things](https://github.com/c3b5aw/inception-of-things), a project to run K3s nodes on Vagrant machines, to run K3d cluster on Docker and to install Gitlab CE on a Kubernetes cluster, made with [@c3b5aw](https://github.com/c3b5aw) and [@naofel1](https://www.github.com/naofel1).
+- [Webserv](https://github.com/c3b5aw/webserv), a HTTP/1.1 server implementation written in C++98 made in pair working with [@c3b5aw](https://github.com/c3b5aw). Support for basic nginx configuration files, event-driven I/O handling, and multiple data response formats (urlencoded, multipart and transfer-encoding chunk mode).
+- [PipexMedic](https://github.com/gmarcha/pipexMedic), a C functional tester for a unix system programming project, Pipex. Intensive process creation, low-level inter-process communication, I/O redirection, signal handling. 
+- [SoLong](https://github.com/gmarcha/so_long), a 2D game written in C with a X11 library. Implementing an application loop, event handling, frame building and rendering.
+- [Go API](https://github.com/gmarcha/ent-goswagger-app) with Open-API based generator (goswagger) and schema-as-code based ORM (entgo).
