@@ -61,7 +61,6 @@ Finally I like to design and create user interfaces or 3D experiences to drive m
 [![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/docs?hl=fr)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/)
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform)
-[![Pulumi](https://img.shields.io/badge/pulumi-%231A1918.svg?style=for-the-badge&logo=pulumi&logoColor=white)](https://www.pulumi.com/docs/)
 [![Ansible](https://img.shields.io/badge/ansible-%23cc0607.svg?style=for-the-badge&logo=ansible&logoColor=white)](https://docs.ansible.com/)
 [![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)](https://developer.hashicorp.com/vagrant/docs)
 [![Packer](https://img.shields.io/badge/packer-%2301a8ef.svg?style=for-the-badge&logo=packer&logoColor=white)](https://developer.hashicorp.com/packer/docs)
