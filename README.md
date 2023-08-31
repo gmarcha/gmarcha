@@ -56,8 +56,10 @@ Finally I like to design and create user interfaces or 3D experiences to drive m
 [![TypeScript](https://img.shields.io/badge/ts-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/learn/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/engine/reference/builder/)
-[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/home/)
-[![Helm](https://img.shields.io/badge/helm-%23267a9e.svg?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh/docs/)
+[![GitHub](https://img.shields.io/badge/github_actions-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/fr/actions)
+[![GitLab](https://img.shields.io/badge/gitlab_CI-%23fc6e26.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
+[![CircleCI](https://img.shields.io/badge/circle%20ci-%23343432.svg?style=for-the-badge&logo=circleci&logoColor=white)](https://circleci.com/docs/)
+
 [![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/docs?hl=fr)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/)
 [![Vault](https://img.shields.io/badge/vault-%23323330.svg?style=for-the-badge&logo=vault&logoColor=white)](https://developer.hashicorp.com/vault/docs)
@@ -67,6 +69,8 @@ Finally I like to design and create user interfaces or 3D experiences to drive m
 [![Packer](https://img.shields.io/badge/packer-%2301a8ef.svg?style=for-the-badge&logo=packer&logoColor=white)](https://developer.hashicorp.com/packer/docs)
 [![Rocky Linux](https://img.shields.io/badge/RL-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white)](https://docs.rockylinux.org/)
 
+[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/home/)
+[![Helm](https://img.shields.io/badge/helm-%23267a9e.svg?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh/docs/)
 [![FluxCD](https://img.shields.io/badge/FluxCD-%23316ce4.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://fluxcd.io/flux/)
 [![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)](https://ranchermanager.docs.rancher.com/)
 [![Harvester](https://img.shields.io/badge/harvester-%2300a384.svg?style=for-the-badge&logo=rancher&logoColor=white)](https://docs.harvesterhci.io/v1.1)
@@ -74,14 +78,6 @@ Finally I like to design and create user interfaces or 3D experiences to drive m
 [![KubeVirt](https://img.shields.io/badge/kubevirt-%2300aab2.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubevirt.io/user-guide/)
 [![KubeSphere](https://img.shields.io/badge/kubesphere-%2351b484.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.kubesphere.io/docs/v3.3/)
 [![OpenShift](https://img.shields.io/badge/openshift-%23db212e.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white)](https://docs.okd.io/latest/welcome/index.html)
-
-[![GitHub](https://img.shields.io/badge/github_actions-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/fr/actions)
-[![GitLab](https://img.shields.io/badge/gitlab_CI-%23fc6e26.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
-[![CircleCI](https://img.shields.io/badge/circle%20ci-%23343432.svg?style=for-the-badge&logo=circleci&logoColor=white)](https://circleci.com/docs/)
-[![Dagger](https://img.shields.io/badge/dagger-%230e2b3d.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.dagger.io/)
-[![Jenkins](https://img.shields.io/badge/jenkins-%23335060.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/doc/book/)
-[![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)](https://nodered.org/docs/)
-[![n8n](https://img.shields.io/badge/n8n-%23eb4b71.svg?style=for-the-badge)](https://docs.n8n.io/#)
 
 [![Ory.sh](https://img.shields.io/badge/Ory-%235528ff.svg?style=for-the-badge&logo=sourcehut&logoColor=white)](https://www.ory.sh/docs/ecosystem/projects)
 [![Apollo-GraphQL](https://img.shields.io/badge/-Apollo-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)](https://www.apollographql.com/docs/)
@@ -93,10 +89,10 @@ Finally I like to design and create user interfaces or 3D experiences to drive m
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/docs/)
 
 [![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/learn)
+[![Next JS](https://img.shields.io/badge/Next-%231A1918.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/docs)
 [![Mantine](https://img.shields.io/badge/mantine-%23349aef.svg?style=for-the-badge&logo=react&logoColor=white)](https://mantine.dev/pages/getting-started/)
 [![Emotion](https://img.shields.io/badge/emotion-%23d26ac1.svg?style=for-the-badge&logo=jss&logoColor=white)](https://emotion.sh/docs/introduction)
 [![Tailwind](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/docs/installation)
-[![Next JS](https://img.shields.io/badge/Next-%231A1918.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/docs)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/docs)
 [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://docs.blender.org/manual/en/latest/)
 
@@ -105,6 +101,7 @@ Finally I like to design and create user interfaces or 3D experiences to drive m
 [![Miro](https://img.shields.io/badge/miro-%23050038.svg?style=for-the-badge&logo=miro&logoColor=white)](https://miro.com/templates/documentation/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://help.figma.com/hc/fr)
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://confluence.atlassian.com/jira)
+[![n8n](https://img.shields.io/badge/n8n-%23eb4b71.svg?style=for-the-badge)](https://docs.n8n.io/#)
 
 ## Other projects
 
