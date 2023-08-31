@@ -55,11 +55,12 @@ Finally I like to design and create user interfaces or 3D experiences to drive m
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/doc/)
 [![TypeScript](https://img.shields.io/badge/ts-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/learn/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/engine/reference/builder/)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/home/)
 [![Helm](https://img.shields.io/badge/helm-%23267a9e.svg?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh/docs/)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/engine/reference/builder/)
 [![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/docs?hl=fr)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/)
+[![Vault](https://img.shields.io/badge/vault-%23323330.svg?style=for-the-badge&logo=vault&logoColor=white)](https://developer.hashicorp.com/vault/docs)
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform)
 [![Ansible](https://img.shields.io/badge/ansible-%23cc0607.svg?style=for-the-badge&logo=ansible&logoColor=white)](https://docs.ansible.com/)
 [![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)](https://developer.hashicorp.com/vagrant/docs)
@@ -67,16 +68,12 @@ Finally I like to design and create user interfaces or 3D experiences to drive m
 [![Rocky Linux](https://img.shields.io/badge/RL-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white)](https://docs.rockylinux.org/)
 
 [![FluxCD](https://img.shields.io/badge/FluxCD-%23316ce4.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://fluxcd.io/flux/)
-[![ArgoCD](https://img.shields.io/badge/ArgoCD-%23ff733e.svg?style=for-the-badge&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io/en/stable/)
-[![Karmada](https://img.shields.io/badge/karmada-%232665fe.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://karmada.io/docs/)
-[![K3s](https://img.shields.io/badge/k3s-%23323330.svg?style=for-the-badge&logo=k3s&logoColor=%23ffc71c)](https://docs.k3s.io/)
 [![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)](https://ranchermanager.docs.rancher.com/)
 [![Harvester](https://img.shields.io/badge/harvester-%2300a384.svg?style=for-the-badge&logo=rancher&logoColor=white)](https://docs.harvesterhci.io/v1.1)
 [![Longhorn](https://img.shields.io/badge/longhorn-%235f224b.svg?style=for-the-badge&logo=rancher&logoColor=white)](https://longhorn.io/docs/1.5.1/)
 [![KubeVirt](https://img.shields.io/badge/kubevirt-%2300aab2.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubevirt.io/user-guide/)
 [![KubeSphere](https://img.shields.io/badge/kubesphere-%2351b484.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.kubesphere.io/docs/v3.3/)
 [![OpenShift](https://img.shields.io/badge/openshift-%23db212e.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white)](https://docs.okd.io/latest/welcome/index.html)
-[![Vault](https://img.shields.io/badge/vault-%23323330.svg?style=for-the-badge&logo=vault&logoColor=%23fed813)](https://developer.hashicorp.com/vault/docs)
 
 [![GitHub](https://img.shields.io/badge/github_actions-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/fr/actions)
 [![GitLab](https://img.shields.io/badge/gitlab_CI-%23fc6e26.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
@@ -95,7 +92,7 @@ Finally I like to design and create user interfaces or 3D experiences to drive m
 [![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)](https://cassandra.apache.org/doc/latest/)
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/docs/)
 
-[![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/learn)
+[![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/learn)
 [![Mantine](https://img.shields.io/badge/mantine-%23349aef.svg?style=for-the-badge&logo=react&logoColor=white)](https://mantine.dev/pages/getting-started/)
 [![Emotion](https://img.shields.io/badge/emotion-%23d26ac1.svg?style=for-the-badge&logo=jss&logoColor=white)](https://emotion.sh/docs/introduction)
 [![Tailwind](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/docs/installation)
@@ -105,7 +102,7 @@ Finally I like to design and create user interfaces or 3D experiences to drive m
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/developers/docs/intro)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://developers.notion.com/)
-[![Miro](https://img.shields.io/badge/miro-%23050038.svg?style=for-the-badge&logo=miro&logoColor=%23ffd02e)](https://miro.com/templates/documentation/)
+[![Miro](https://img.shields.io/badge/miro-%23050038.svg?style=for-the-badge&logo=miro&logoColor=white)](https://miro.com/templates/documentation/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://help.figma.com/hc/fr)
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://confluence.atlassian.com/jira)
 
