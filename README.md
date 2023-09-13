@@ -73,9 +73,7 @@ Finally I like to design and create user interfaces or 3D experiences to drive m
 [![Helm](https://img.shields.io/badge/helm-%23267a9e.svg?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh/docs/)
 [![FluxCD](https://img.shields.io/badge/FluxCD-%23316ce4.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://fluxcd.io/flux/)
 [![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)](https://ranchermanager.docs.rancher.com/)
-[![Harvester](https://img.shields.io/badge/harvester-%2300a384.svg?style=for-the-badge&logo=rancher&logoColor=white)](https://docs.harvesterhci.io/v1.1)
 [![Longhorn](https://img.shields.io/badge/longhorn-%235f224b.svg?style=for-the-badge&logo=rancher&logoColor=white)](https://longhorn.io/docs/1.5.1/)
-[![KubeVirt](https://img.shields.io/badge/kubevirt-%2300aab2.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubevirt.io/user-guide/)
 [![KubeSphere](https://img.shields.io/badge/kubesphere-%2351b484.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.kubesphere.io/docs/v3.3/)
 [![OpenShift](https://img.shields.io/badge/openshift-%23db212e.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white)](https://docs.okd.io/latest/welcome/index.html)
 
