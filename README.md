@@ -80,8 +80,8 @@ Finally I like to design and create user interfaces or 3D experiences to drive m
 [![Ory.sh](https://img.shields.io/badge/Ory-%235528ff.svg?style=for-the-badge&logo=sourcehut&logoColor=white)](https://www.ory.sh/docs/ecosystem/projects)
 [![Hasura](https://img.shields.io/badge/Hasura-%231eb5d4.svg?style=for-the-badge&logo=graphql&logoColor=white)](https://hasura.io/docs/latest/index/)
 [![GraphQL Mesh](https://img.shields.io/badge/GraphQL--Mesh-%231A1918.svg?style=for-the-badge&logo=graphql&logoColor=white)](https://the-guild.dev/graphql/mesh/docs)
+[![Postgraphile](https://img.shields.io/badge/postgraphile-%234ba8ff.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.graphile.org/postgraphile/introduction/)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/current/index.html)
-[![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)](https://cassandra.apache.org/doc/latest/)
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/docs/)
 
 [![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/learn)
